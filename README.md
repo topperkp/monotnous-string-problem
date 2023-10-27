@@ -1,6 +1,1 @@
-# monotnous-string-problem
-
-Comment 1
-
-
-comment 2
+it's a problem given in Hackerrank..
